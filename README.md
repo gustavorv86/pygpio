@@ -1,5 +1,5 @@
-gpioPy
-======
+gpio_py
+=======
 
 About
 -----
@@ -22,4 +22,3 @@ Run the help scripts.
 ./gpio.py help
 ./board-led.py help
 ```
-
